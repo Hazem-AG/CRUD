@@ -12,5 +12,5 @@ Table name: `t-crud`
 
 ## Table Content
 
-![Example Image](images/t-crud.jpg)
+![Example Image](README/t-crud.jpg)
 
